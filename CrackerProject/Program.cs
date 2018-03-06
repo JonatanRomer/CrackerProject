@@ -10,7 +10,7 @@ namespace CrackerProject
     {
         static void Main(string[] args)
         {
-            //lul
+            //zulul
         }
     }
 }
